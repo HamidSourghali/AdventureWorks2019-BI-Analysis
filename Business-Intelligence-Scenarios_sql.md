@@ -1,7 +1,7 @@
 # Business Intelligence Scenarios On _ADVENTUREWORKS2019_ Dataset
 # Author: `Hamid Sourghali`
 
-You can find some business insights in different areas listed below on 
+
 ====================================================================================
 # `OVERVIEW ON InternetSales`
 ====================================================================================
